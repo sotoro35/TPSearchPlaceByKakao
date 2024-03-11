@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80996549103",
+    "project_id": "tpsearchplacehsr",
+    "storage_bucket": "tpsearchplacehsr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80996549103:android:d343fc80e6155dc4d8361a",
+        "android_client_info": {
+          "package_name": "com.hsr2024.tpsearchplacebykakao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz4EViwYWDTahowMhVaBeS1iMWzfHvdj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
