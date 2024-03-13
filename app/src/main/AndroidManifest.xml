@@ -58,6 +58,11 @@
             </intent-filter>
         </activity>
 
+        <!-- 카카오 지도 네이티브 앱 키 등록 -->
+        <meta-data
+            android:name="com.kakao.vectormap.APP_KEY"
+            android:value="586e0c25dc79b7fb8d17c615a96b56c2"/>
+
     </application>
 
 </manifest>

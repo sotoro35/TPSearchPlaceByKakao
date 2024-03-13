@@ -13,6 +13,9 @@ dependencyResolutionManagement {
 
         // 카카오 SDK 저장소 경로
         maven { url 'https://devrepo.kakao.com/nexus/content/groups/public/'}
+
+        //카카오 지도 SDK 저장소
+        maven { url 'https://devrepo.kakao.com/nexus/repository/kakaomap-releases/' }
     }
 }
 
