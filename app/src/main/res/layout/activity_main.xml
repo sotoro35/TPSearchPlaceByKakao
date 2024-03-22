@@ -75,14 +75,14 @@
             app:itemTextColor="@color/bnv_item"/>
     </com.google.android.material.bottomappbar.BottomAppBar>
 
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/fab_refresh"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            style="@style/Widget.MaterialComponents.FloatingActionButton"
-            android:backgroundTint="@color/black"
-            android:src="@drawable/baseline_refresh_24"
-            app:layout_anchor="@id/bab"/>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_refresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/Widget.MaterialComponents.FloatingActionButton"
+        android:backgroundTint="@color/black"
+        android:src="@drawable/baseline_refresh_24"
+        app:layout_anchor="@id/bab"/>
 
 
 

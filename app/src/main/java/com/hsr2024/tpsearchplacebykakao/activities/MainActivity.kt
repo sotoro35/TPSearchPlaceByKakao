@@ -109,6 +109,7 @@ class MainActivity : AppCompatActivity() {
             requestMyLocation()
             ObjectAnimator.ofFloat(it,"translationY", -140f).start()
             ObjectAnimator.ofFloat(it,"rotationX", 360f).start()
+            ObjectAnimator.ofFloat(it,"translationY", -140f).start()
         }
 
     }// onCreate method

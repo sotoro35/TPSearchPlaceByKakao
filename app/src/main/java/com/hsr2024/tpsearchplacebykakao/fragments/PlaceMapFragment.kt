@@ -42,7 +42,7 @@ class PlaceMapFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         // 카카오 지도 start
-        binding.mapView.start(mapReadyCallbak)
+        binding.mapView.start()
 
 
 
@@ -79,9 +79,6 @@ class PlaceMapFragment : Fragment() {
 
             // 라벨 클릭에 반응하기
             kakaoMap.setOnLabelClickListener { kakaoMap, layer, label ->
-
-
-
 
                 label.apply {
 

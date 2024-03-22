@@ -73,7 +73,6 @@ class PlaceDetailActivity : AppCompatActivity() {
 
                 }
 
-
                 Toast.makeText(this, "찜 저장", Toast.LENGTH_SHORT).show()
             }
 
